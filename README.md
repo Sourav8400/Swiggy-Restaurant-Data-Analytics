@@ -308,15 +308,15 @@ See `requirements.txt` for the complete list.
 
 ### Executive Overview
 
-![Executive Overview](Executive_Overview.jpeg)
+![Executive Overview](Screenshots/Executive_Overview.jpeg)
 
 ### State & City Analysis
 
-![State & City Analysis](State_City_Analysis.jpeg)
+![State & City Analysis](Screenshots/State_City_Analysis.jpeg)
 
 ### Restaurant & Category Analysis
 
-![Restaurant & Category Analysis](Restaurant_&_Category_Analysis.jpeg)
+![Restaurant & Category Analysis](Screenshots/Restaurant_&_Category_Analysis.jpeg)
 
 ---
 
